@@ -19,6 +19,8 @@ We also provide the frame to make a container box for the tiles:
 * 
 
 # How to Contribute 
+We only make a part of Gift 7, That's mean 9 gift remain to be remodel for DIY fabrications. 
+You can see [gift google search |https://www.google.com/search?q=gift+froebel&espv=2&source=lnms&tbm=isch&sa=X&ei=ibqlU53CC4fJ8wHBnYDACA&ved=0CAYQ_AUoAQ&biw=1311&bih=956]
 
 * Fork this reporsitory 
 * Create your own folder gift folder "Gift-NN"
