@@ -24,7 +24,7 @@ We also provide the frame to make a container box for the tiles:
 * Create your own folder gift folder "Gift-NN"
 * Add the frame for cutting or the model for printing, eventually a box design 
 * Photography and document your fabrication process 
-* and finally make a commit request 
+* and finally make a pull request 
 
 # Our usage 
 Frobel Open Gift was made for research purpose to study constructive visualization paradigm. 
@@ -36,7 +36,11 @@ More information about constructive visualization could be found on the followin
 # Credit 
 
 ## People
-This work have been made by Samuel Huron, Romain Di Vozzo,Mathieu Le Goc, Jeremy Boy + ( Contribute and Add your name here).
+This work have been made by:
+* Samuel Huron, 
+* Romain Di Vozzo, 
+* Mathieu Le Goc, 
+* ( Add your name here by sending your own gift. )
 
 ## Institution 
 First version was forged at: 
