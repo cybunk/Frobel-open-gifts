@@ -34,8 +34,19 @@ More information about constructive visualization could be found on the followin
 
 
 # Credit 
+
+## People
 This work have been made by Samuel Huron, Romain Di Vozzo,Mathieu Le Goc, Jeremy Boy + ( Contribute and Add your name here).
+
+## Institution 
+First version was forged at: 
+* Fab Lab Digiscope http://fablabdigiscope.wordpress.com 
+* With the participation of AVIZ team http://www.aviz.fr
+* and IRI http://www.iri.centrepompidou.fr
+
+## Papers
 If you use this material for research purpose, please cite one of our papers: 
+
 * constructive visualization - http://hal.inria.fr/hal-00978437
 
 > @inproceedings{Huron:2014:CV:2598510.2598566,
