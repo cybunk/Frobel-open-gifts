@@ -5,6 +5,9 @@ Frobel Open Gift is an open source version of the Friedrich Fröbel pedagogical 
 This material is originally pedagogical toy design to teach numeracy and math in Kindergarten.
 But they also could be used to study information visualization construction (we used it for this purpose). 
 
+# What is it:
+![Gift 7 - Frobel Open Gift](http://inria.github.io/frobel-open-gifts/2014-06-14_gift7_fens/media/20140614_002523.jpg)
+
 # What we already release:
 
 Froebel original gift are composed of 10 "gifts" (pedagogical toys). 
@@ -31,8 +34,7 @@ http://hal.inria.fr/hal-00978437
 
 
 # Credit 
-This work have been made by Samuel Huron, Romain Di Vozzo,Mathieu Le Goc, Jeremy Boy, Add your name here.
-
+This work have been made by Samuel Huron, Romain Di Vozzo,Mathieu Le Goc, Jeremy Boy + ( Contribute and Add your name here).
 If you use this material for research purpose, please cite one of our papers: 
 * constructive visualization - http://hal.inria.fr/hal-00978437
 
@@ -53,3 +55,10 @@ If you use this material for research purpose, please cite one of our papers:
 >  address = {New York, NY, USA},
 >  keywords = {assembling, construction, constructionism, constructivism, design, education, visual literacy., visualization},
 > } 
+
+
+# History:
+More infos could be find on: 
+* froebel wikipedia page : http://en.wikipedia.org/wiki/Friedrich_Fr%C3%B6bel
+* froebel Gift video explanation : https://www.youtube.com/watch?v=LNBzmCKLNdU
+* 
