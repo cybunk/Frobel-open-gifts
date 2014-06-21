@@ -31,7 +31,11 @@ http://hal.inria.fr/hal-00978437
 
 
 # Credit 
-If you use this material for research purpose, please cite on of our papers: 
+This work have been made by Samuel Huron, Romain Di Vozzo,Mathieu Le Goc, Jeremy Boy, Add your name here.
+
+If you use this material for research purpose, please cite one of our papers: 
+* constructive visualization - http://hal.inria.fr/hal-00978437
+
 > @inproceedings{Huron:2014:CV:2598510.2598566,
 >  author = {Huron, Samuel and Carpendale, Sheelagh and Thudt, Alice and Tang, Anthony and Mauerer, Michael},
 >  title = {Constructive Visualization},
