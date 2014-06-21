@@ -1,21 +1,34 @@
-Kindergarten-open-gifts
+Frobel-open-gifts
 =======================
 
 Frobel Open Gift is an open source version of the Friedrich Fröbel pedagogical material.
-This material could be used to teach math in kinderarten or study information visualization construction. 
+This material is originally pedagogical toy design to teach numeracy and math in Kindergarten.
+But they also could be used to study information visualization construction (we used it for this purpose). 
 
-# Sets Release 
+# What we already release:
 
-Froebel original gift are composed of 10 gifts. 
-Over the ten original Gifts we have just re designed the tiles from Gift 7 for a FabLab fabrication.
-Two version are accessibles, a 3d printable tile and a laser cuttable frame of tile.
+Froebel original gift are composed of 10 "gifts" (pedagogical toys). 
+Over the ten original "gifts" we have just re designed the squared tiles from Gift 7 for a FabLab fabrication.
+Two version are accessibles: 
+* a 3d printable tile: https://github.com/INRIA/frobel-open-gifts/blob/master/tangible-square-printable-model.stl
+* and a laser cuttable frame of tile: 
+We also provide the frame to make a container box for the tiles: 
+* 
 
+# How to Contribute 
 
+* Fork this reporsitory 
+* Create your own folder gift folder "Gift-NN"
+* Add the frame for cutting or the model for printing, eventually a box design 
+* Photography and document your fabrication process 
+* and finally make a commit request 
 
-# Inspiration 
+# Our usage 
 Frobel Open Gift was made for research purpose to study constructive visualization paradigm. 
 More information about constructive visualization vould be found on the research paper : 
 http://hal.inria.fr/hal-00978437
+
+
 
 # Credit 
 If you use this material for research purpose, please cite on of our papers: 
