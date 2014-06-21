@@ -20,7 +20,7 @@ We also provide the frame to make a container box for the tiles:
 
 # How to Contribute 
 We only make a part of Gift 7, That's mean 9 gift remain to be remodel for DIY fabrications. 
-You can see [gift google search |https://www.google.com/search?q=gift+froebel&espv=2&source=lnms&tbm=isch&sa=X&ei=ibqlU53CC4fJ8wHBnYDACA&ved=0CAYQ_AUoAQ&biw=1311&bih=956]
+You can see how diverse are the existing ersion [gift google search](https://www.google.com/search?q=gift+froebel&espv=2&source=lnms&tbm=isch&sa=X&ei=ibqlU53CC4fJ8wHBnYDACA&ved=0CAYQ_AUoAQ&biw=1311&bih=956)
 
 * Fork this reporsitory 
 * Create your own folder gift folder "Gift-NN"
@@ -31,7 +31,7 @@ You can see [gift google search |https://www.google.com/search?q=gift+froebel&es
 # Our usage 
 Frobel Open Gift was made for research purpose to study constructive visualization paradigm. 
 More information about constructive visualization could be found on the following research paper : 
-* Constructive visualization paradygm http://hal.inria.fr/hal-00978437
+* [Constructive visualization paradygm](http://hal.inria.fr/hal-00978437)
 * Visualization construction study (coming soon)
 
 
@@ -46,9 +46,9 @@ This work have been made by:
 
 ## Institution 
 First version was forged at: 
-* Fab Lab Digiscope http://fablabdigiscope.wordpress.com 
-* With the participation of AVIZ team http://www.aviz.fr
-* and IRI http://www.iri.centrepompidou.fr
+* [Fab Lab Digiscope](http://fablabdigiscope.wordpress.com)
+* With the participation of [AVIZ team](http://www.aviz.fr)
+* and [IRI](http://www.iri.centrepompidou.fr)
 
 ## Papers
 If you use this material for research purpose, please cite one of our papers: 
