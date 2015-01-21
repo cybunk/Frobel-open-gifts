@@ -31,7 +31,7 @@ You can see how diverse are the 9 others gifts [gift google search](https://www.
 Frobel Open Gift was made for research purpose to study constructive visualization paradigm. 
 More information about constructive visualization could be found on the following research paper : 
 * [Constructive visualization paradygm](http://hal.inria.fr/hal-00978437)
-* Visualization construction study (coming soon)
+* [Visual representation construction study](http://constructive.gforge.inria.fr/#!index.md)
 
 
 # Credit 
